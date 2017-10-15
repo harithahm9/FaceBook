@@ -1,0 +1,88 @@
+
+
+body,html,#logo{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 95%;
+    margin: 0 auto
+}
+
+#header {
+    background-color: #3b5b96;
+    height: 70px;
+    padding-top: 10px;
+}
+
+#logo {
+   
+   
+    width: 400px;
+    height: 80px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+#header-right {
+    float: right;
+}
+
+#hr-1 {
+    height: 60px;
+}
+
+#hr-2 {
+    height: 60px;
+}
+
+#hr-3 {
+    height: 20px;
+}
+
+#content {
+    clear: both;
+    float: left;
+    width: 100%;
+}
+
+
+#content-right {
+    float: right;
+}
+
+
+
+.light-blue {
+    color: #80a2bd;
+}
+
+
+
+#forgot-pwd {
+   
+    color: #80a2bd;
+}
+
+#login-btn {
+    
+    background: #6b7bb0;
+    border: none;
+}
+
+
+/*common classes*/
+
+.d-inline-block{
+    display: inline-block;
+}
+
+.d-block{
+    display: block;
+}
+.white-color{
+    color: #fff;
+}
+.valign-middle{
+    vertical-align: middle;
+}
